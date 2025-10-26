@@ -11,20 +11,13 @@ A *portfolio website* built using *HTML* and *CSS, featuring two pages: **Home* 
 ## Built With
 - HTML5  
 - CSS3  
-
-## Usage
-1. Clone the repository:  
-   bash.
-   git clone <repository-url>
-
    
 ## How to View
 1. you can access my portfolio website by visiting [link] feel free to explore the content and get in touch
 2. Clone the repository 
-   bash
+   
 
 ## contribuiting 
 1. if you'd like to contribute or suggest improvements, please free to open an issue or create a pull request. your feedback is greatly appreciated.
-2.
-3. Thankyou fao visiting my portfolio website!
+2. Thankyou fao visiting my portfolio website!
    
