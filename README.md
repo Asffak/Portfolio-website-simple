@@ -1,7 +1,7 @@
 # Portfolio-website-simple
 Mohamed asffak
-# Personal Portfolio Website
 
+# Personal Portfolio Website
 A *portfolio website* built using *HTML* and *CSS, featuring two pages: **Home* and *Contact*. It showcases personal information, skills, and provides a way to get in touch a clean and straight forward was experience.
 
 ## Pages
@@ -17,7 +17,7 @@ A *portfolio website* built using *HTML* and *CSS, featuring two pages: **Home* 
 2. Clone the repository 
    
 
-## contribuiting 
+## Contribuiting 
 1. if you'd like to contribute or suggest improvements, please free to open an issue or create a pull request. your feedback is greatly appreciated.
 2. Thankyou fao visiting my portfolio website!
    
